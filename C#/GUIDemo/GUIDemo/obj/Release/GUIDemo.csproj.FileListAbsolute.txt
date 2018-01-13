@@ -1,0 +1,10 @@
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUIDemo\bin\Release\GUIDemo.exe
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUIDemo\bin\Release\GUIDemo.pdb
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUIDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUIDemo\obj\Release\GUIDemo.exe
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUIDemo\obj\Release\GUIDemo.pdb
+C:\Stuff\training\C#\GUIDemo\GUIDemo\obj\Release\GUIDemo.exe
+C:\Stuff\training\C#\GUIDemo\GUIDemo\obj\Release\GUIDemo.pdb
+C:\Stuff\training\C#\GUIDemo\GUIDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Stuff\training\C#\GUIDemo\GUIDemo\bin\Release\GUIDemo.exe
+C:\Stuff\training\C#\GUIDemo\GUIDemo\bin\Release\GUIDemo.pdb

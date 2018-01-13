@@ -1,0 +1,8 @@
+C:\Stuff\training\C#\GUI2\GUI2\bin\Release\GUI2.exe
+C:\Stuff\training\C#\GUI2\GUI2\bin\Release\GUI2.pdb
+C:\Stuff\training\C#\GUI2\GUI2\obj\Release\ResolveAssemblyReference.cache
+C:\Stuff\training\C#\GUI2\GUI2\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Stuff\training\C#\GUI2\GUI2\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Stuff\training\C#\GUI2\GUI2\obj\Release\GUI2.csproj.GenerateResource.Cache
+C:\Stuff\training\C#\GUI2\GUI2\obj\Release\GUI2.exe
+C:\Stuff\training\C#\GUI2\GUI2\obj\Release\GUI2.pdb

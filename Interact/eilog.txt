@@ -1,0 +1,27 @@
+F2 - z buffer
+F3 - fill mode
+F4 - shade mode
+z-buffer disabled
+z-buffer enabled
+z-buffer disabled
+z-buffer enabled
+fill mode: WIREFRAME
+shade mode: FLAT
+shade mode: GOURAUD
+shade mode: FLAT
+shade mode: GOURAUD
+shade mode: FLAT
+shade mode: GOURAUD
+fill mode: POINT
+fill mode: SOLID
+fill mode: WIREFRAME
+fill mode: POINT
+fill mode: SOLID
+z-buffer disabled
+shade mode: FLAT
+shade mode: GOURAUD
+fill mode: WIREFRAME
+fill mode: POINT
+fill mode: SOLID
+
+--final--

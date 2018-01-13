@@ -1,0 +1,10 @@
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\SQL\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\SQL\bin\Release\SQL.exe
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\SQL\bin\Release\SQL.pdb
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\SQL\obj\Release\SQL.exe
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\SQL\obj\Release\SQL.pdb
+C:\Stuff\training\C#\SQL\SQL\obj\Release\SQL.exe
+C:\Stuff\training\C#\SQL\SQL\obj\Release\SQL.pdb
+C:\Stuff\training\C#\SQL\SQL\bin\Release\SQL.exe
+C:\Stuff\training\C#\SQL\SQL\bin\Release\SQL.pdb
+C:\Stuff\training\C#\SQL\SQL\obj\Release\ResolveAssemblyReference.cache

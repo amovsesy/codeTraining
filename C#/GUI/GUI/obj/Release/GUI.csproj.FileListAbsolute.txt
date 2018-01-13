@@ -1,0 +1,9 @@
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUI\bin\Release\GUI.exe
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUI\bin\Release\GUI.pdb
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUI\obj\Release\GUI.exe
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUI\obj\Release\GUI.pdb
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUI\obj\Release\GUI.Form1.resources
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\GUI\obj\Release\GUI.csproj.GenerateResource.Cache
+C:\Stuff\training\C#\GUI\GUI\obj\Release\GUI.exe
+C:\Stuff\training\C#\GUI\GUI\obj\Release\GUI.pdb

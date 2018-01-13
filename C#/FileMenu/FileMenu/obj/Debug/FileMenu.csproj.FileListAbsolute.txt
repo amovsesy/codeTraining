@@ -1,0 +1,5 @@
+C:\Stuff\training\C#\FileMenu\FileMenu\bin\Debug\FileMenu.exe
+C:\Stuff\training\C#\FileMenu\FileMenu\bin\Debug\FileMenu.pdb
+C:\Stuff\training\C#\FileMenu\FileMenu\obj\Debug\ResolveAssemblyReference.cache
+C:\Stuff\training\C#\FileMenu\FileMenu\obj\Debug\FileMenu.exe
+C:\Stuff\training\C#\FileMenu\FileMenu\obj\Debug\FileMenu.pdb

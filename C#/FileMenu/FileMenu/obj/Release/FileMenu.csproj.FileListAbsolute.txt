@@ -1,0 +1,7 @@
+C:\Stuff\training\C#\FileMenu\FileMenu\bin\Release\FileMenu.exe
+C:\Stuff\training\C#\FileMenu\FileMenu\bin\Release\FileMenu.pdb
+C:\Stuff\training\C#\FileMenu\FileMenu\obj\Release\ResolveAssemblyReference.cache
+C:\Stuff\training\C#\FileMenu\FileMenu\obj\Release\FileMenu.exe
+C:\Stuff\training\C#\FileMenu\FileMenu\obj\Release\FileMenu.pdb
+C:\Stuff\training\C#\FileMenu\FileMenu\obj\Release\MainForm.resources
+C:\Stuff\training\C#\FileMenu\FileMenu\obj\Release\FileMenu.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\DataReader\bin\Release\DataReader.exe
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\DataReader\bin\Release\DataReader.pdb
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\DataReader\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\DataReader\obj\Release\DataReader.exe
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\DataReader\obj\Release\DataReader.pdb
+C:\Stuff\training\C#\DataReader\DataReader\obj\Release\DataReader.exe
+C:\Stuff\training\C#\DataReader\DataReader\obj\Release\DataReader.pdb
+C:\Stuff\training\C#\DataReader\DataReader\bin\Release\DataReader.exe
+C:\Stuff\training\C#\DataReader\DataReader\bin\Release\DataReader.pdb
+C:\Stuff\training\C#\DataReader\DataReader\obj\Release\ResolveAssemblyReference.cache

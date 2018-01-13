@@ -1,0 +1,5 @@
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\Project1\bin\Release\Project1.exe
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\Project1\bin\Release\Project1.pdb
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\Project1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\Project1\obj\Release\Project1.exe
+C:\Users\Aleksandr\AppData\Local\Temporary Projects\Project1\obj\Release\Project1.pdb
